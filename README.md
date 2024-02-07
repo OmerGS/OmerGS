@@ -5,11 +5,9 @@
 
 ## Technical Skills
 - Programming languages: 
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
-  ![HTML](https://img.shields.io/badge/-HTML-red)
-  ![Wordpress](https://img.shields.io/badge/-Wordpress-brightgreen)
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:middle">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:middle">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:middle">
 
 ## Spoken Languages
 - Native Turkish
@@ -25,14 +23,11 @@
 
 ## Compétences techniques
 - Langages de programmation :
-- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:middle">
-  ![Python](https://img.shields.io/badge/-Python-blue)
-  ![Java](https://img.shields.io/badge/-Java-orange)
-  ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
-  ![HTML](https://img.shields.io/badge/-HTML-red)
-  ![Wordpress](https://img.shields.io/badge/-Wordpress-brightgreen)
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:middle">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:middle">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:middle">
 
 ## Langues parlées
-- Turc natif
-- Français natif
+- Turc Bilingue
+- Français Bilingue
 - Anglais professionnel
