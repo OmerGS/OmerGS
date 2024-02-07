@@ -1,17 +1,37 @@
-### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+# Hello! 👋
 
-<!--
-**OmerGS/OmerGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+🎓 I am currently in the first year of a Bachelor's degree in Computer Science at the IUT de Vannes.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Programming languages: 
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+  ![HTML](https://img.shields.io/badge/-HTML-red)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Spoken Languages
+- Native Turkish
+- Native French
+- Professional English
+
+---------------------------------------------------
+
+# Bonjour ! 👋
+
+## À propos de moi
+🎓 Je suis actuellement en 1ère année de BUT Informatique à l'IUT de Vannes.
+
+## Compétences techniques
+- Langages de programmation : 
+  ![Python](https://img.shields.io/badge/-Python-blue)
+  ![Java](https://img.shields.io/badge/-Java-orange)
+  ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+  ![HTML](https://img.shields.io/badge/-HTML-red)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-brightgreen)
+
+## Langues parlées
+- Turc natif
+- Français natif
+- Anglais professionnel
