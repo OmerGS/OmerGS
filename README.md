@@ -25,7 +25,7 @@
 
 ## Compétences techniques
 - Langages de programmation :
-- <img>https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg</img>
+- <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="Java" style="vertical-align:middle">
   ![Python](https://img.shields.io/badge/-Python-blue)
   ![Java](https://img.shields.io/badge/-Java-orange)
   ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
