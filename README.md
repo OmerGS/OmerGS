@@ -1,7 +1,7 @@
 # Hello! 👋
 
 ## About me
-🎓 I am currently in the first year of a Bachelor's degree in Computer Science at the IUT de Vannes.
+🎓 I am currently on the second year of a Bachelor's degree in Computer Science at the IUT de Vannes.
 
 ## Technical Skills
 - Programming languages: 
@@ -19,7 +19,7 @@
 # Bonjour ! 👋
 
 ## À propos de moi
-🎓 Je suis actuellement en 1ère année de BUT Informatique à l'IUT de Vannes.
+🎓 Je suis actuellement en 2ème année de BUT Informatique à l'IUT de Vannes.
 
 ## Compétences techniques
 - Langages de programmation :
