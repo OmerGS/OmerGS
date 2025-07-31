@@ -13,7 +13,6 @@
 <p align="center">
   🎓 <b>3rd-year Computer Science Student</b> at IUT de Vannes<br/>
   💻 Passionate about creating scalable solutions for associations & communities<br/>
-  🔥 Always learning, improving & loving clean code!
 </p>
 
 <details>
