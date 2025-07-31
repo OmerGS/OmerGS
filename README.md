@@ -88,10 +88,9 @@ _Explore my GitHub repos for demos & source code!_
 <details>
 <summary><strong>🌍 Languages</strong> (click to expand)</summary>
 
-
-- Native Turkish  
-- Native French  
-- Professional English  
+- 🇹🇷 Native Turkish  
+- 🇫🇷 Native French  
+- 🇬🇧 Professional English  
 </details>
 
 ---
